@@ -23,7 +23,7 @@ USENIX Symposium on Operating Systems Design and Implementation (OSDI 18). 2018.
 
 ## ImageNet Model
 
-[1] He, Kaiming, et al. "Deep residual learning for image recognition."
+[1] He, Kaiming, et al. "**Deep residual learning for image recognition.**"
 Proceedings of the IEEE conference on computer vision and pattern recognition (CVPR). 2016.
 [[pdf]](http://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
@@ -31,5 +31,9 @@ Proceedings of the IEEE conference on computer vision and pattern recognition (C
 
 ## Object Detection
 
-[1] 
+## Semantic Segmentation
+
+[1] Jégou, Simon, et al. "**The one hundred layers tiramisu: Fully convolutional densenets for semantic segmentation.**"
+Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops. 2017. 
+[[pdf]](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w13/papers/Jegou_The_One_Hundred_CVPR_2017_paper.pdf)
  
