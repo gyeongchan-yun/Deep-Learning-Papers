@@ -29,4 +29,4 @@ Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Wo
  
 # Language Translation
 
-[1] Sutskever, I., O. Vinyals, and Q. V. Le. "**Sequence to sequence learning with neural networks.**" Advances in NIPS (2014).
+[1] Sutskever, I., O. Vinyals, and Q. V. Le. "**Sequence to sequence learning with neural networks.**" Advances in NIPS (2014). [[pdf]](https://arxiv.org/pdf/1409.3215.pdf)
