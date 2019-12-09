@@ -27,3 +27,6 @@ Proceedings of the IEEE conference on computer vision and pattern recognition (C
 Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops. 2017. 
 [[pdf]](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w13/papers/Jegou_The_One_Hundred_CVPR_2017_paper.pdf)
  
+# Language Translation
+
+[1] Sutskever, I., O. Vinyals, and Q. V. Le. "**Sequence to sequence learning with neural networks.**" Advances in NIPS (2014).
