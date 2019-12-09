@@ -21,6 +21,8 @@ Proceedings of the IEEE conference on computer vision and pattern recognition (C
 
 ## Object Detection
 
+[1] He, Kaiming, et al. "**Mask r-cnn.**" Proceedings of the IEEE international conference on computer vision. 2017. [[pdf]](https://arxiv.org/pdf/1703.06870.pdf)
+
 ## Semantic Segmentation
 
 [1] Jégou, Simon, et al. "**The one hundred layers tiramisu: Fully convolutional densenets for semantic segmentation.**"
