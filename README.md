@@ -19,6 +19,10 @@ arXiv:1312.5602 (2013). [[pdf]](https://arxiv.org/pdf/1312.5602.pdf)
 Proceedings of the IEEE conference on computer vision and pattern recognition (CVPR). 2016.
 [[pdf]](http://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
+[2] Huang, Gao, et al. "**Densely connected convolutional networks.**" 
+Proceedings of the IEEE conference on computer vision and pattern recognition (CVPR). 2017.
+[[pdf]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Huang_Densely_Connected_Convolutional_CVPR_2017_paper.pdf)
+
 ## Object Detection
 
 [1] He, Kaiming, et al. "**Mask r-cnn.**" Proceedings of the IEEE international conference on computer vision. 2017. 
