@@ -21,7 +21,8 @@ Proceedings of the IEEE conference on computer vision and pattern recognition (C
 
 ## Object Detection
 
-[1] He, Kaiming, et al. "**Mask r-cnn.**" Proceedings of the IEEE international conference on computer vision. 2017. [[pdf]](https://arxiv.org/pdf/1703.06870.pdf)
+[1] He, Kaiming, et al. "**Mask r-cnn.**" Proceedings of the IEEE international conference on computer vision. 2017. 
+[[pdf]](https://arxiv.org/pdf/1703.06870.pdf)
 
 ## Semantic Segmentation
 
@@ -31,4 +32,12 @@ Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Wo
  
 # Language Translation
 
-[1] Sutskever, I., O. Vinyals, and Q. V. Le. "**Sequence to sequence learning with neural networks.**" Advances in NIPS (2014). [[pdf]](https://arxiv.org/pdf/1409.3215.pdf)
+[1] Sutskever, I., O. Vinyals, and Q. V. Le. "**Sequence to sequence learning with neural networks.**" Advances in NIPS (2014).
+[[pdf]](https://arxiv.org/pdf/1409.3215.pdf)
+
+[2] Wu, Yonghui, et al. "**Google's neural machine translation system: Bridging the gap between human and machine translation.**" 
+arXiv preprint arXiv:1609.08144 (2016).
+[[pdf]](https://arxiv.org/pdf/1609.08144.pdf%20(7.pdf))
+
+[3] Vaswani, Ashish, et al. "**Attention is all you need.**" Advances in neural information processing systems (NIPS). 2017.
+[[pdf]](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf)
