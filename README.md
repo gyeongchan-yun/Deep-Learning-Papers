@@ -45,3 +45,9 @@ arXiv preprint arXiv:1609.08144 (2016).
 
 [3] Vaswani, Ashish, et al. "**Attention is all you need.**" Advances in neural information processing systems (NIPS). 2017.
 [[pdf]](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf)
+
+# Transfer Learning
+
+[1] Tan, Chuanqi, et al. "**A survey on deep transfer learning.**"
+International conference on artificial neural networks. Springer, Cham, 2018.
+[[pdf]](https://arxiv.org/pdf/1808.01974.pdf)
