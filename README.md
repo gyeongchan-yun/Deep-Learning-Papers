@@ -51,3 +51,7 @@ arXiv preprint arXiv:1609.08144 (2016).
 [1] Tan, Chuanqi, et al. "**A survey on deep transfer learning.**"
 International conference on artificial neural networks. Springer, Cham, 2018.
 [[pdf]](https://arxiv.org/pdf/1808.01974.pdf)
+
+[2] Papernot, Nicolas, et al. "**Semi-supervised knowledge transfer for deep learning from private training data.**"
+arXiv preprint arXiv:1610.05755 (2016).
+[[pdf]](https://arxiv.org/pdf/1610.05755.pdf,)
