@@ -46,12 +46,20 @@ arXiv preprint arXiv:1609.08144 (2016).
 [3] Vaswani, Ashish, et al. "**Attention is all you need.**" Advances in neural information processing systems (NIPS). 2017.
 [[pdf]](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf)
 
-# Transfer Learning
+# Transfer Learning (Multi-Task Learning)
 
 [1] Tan, Chuanqi, et al. "**A survey on deep transfer learning.**"
 International conference on artificial neural networks. Springer, Cham, 2018.
 [[pdf]](https://arxiv.org/pdf/1808.01974.pdf)
 
-[2] Papernot, Nicolas, et al. "**Semi-supervised knowledge transfer for deep learning from private training data.**"
+## Training
+
+[1] Papernot, Nicolas, et al. "**Semi-supervised knowledge transfer for deep learning from private training data.**"
 arXiv preprint arXiv:1610.05755 (2016).
 [[pdf]](https://arxiv.org/pdf/1610.05755.pdf,)
+
+## Inference
+
+[1] Kim, Eunwoo, et al. "**Deep virtual networks for memory efficient inference of multiple tasks.**" 
+Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019.
+[[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_Deep_Virtual_Networks_for_Memory_Efficient_Inference_of_Multiple_Tasks_CVPR_2019_paper.pdf)
