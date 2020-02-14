@@ -52,6 +52,21 @@ arXiv preprint arXiv:1609.08144 (2016).
 International conference on artificial neural networks. Springer, Cham, 2018.
 [[pdf]](https://arxiv.org/pdf/1808.01974.pdf)
 
+[2] Pan, Sinno Jialin, and Qiang Yang. "**A survey on transfer learning.**" IEEE Transactions on knowledge and data engineering 22.10 (2009): 1345-1359.
+[[pdf]](https://ieeexplore.ieee.org/iel5/69/4358933/05288526.pdf)
+
+[3] Ruder, Sebastian. "**An overview of multi-task learning in deep neural networks.**" 
+arXiv preprint arXiv:1706.05098 (2017).
+[[pdf]](https://arxiv.org/pdf/1706.05098.pdf)
+
+[4] Yosinski, Jason, et al. "**How transferable are features in deep neural networks?.**" 
+Advances in neural information processing systems. 2014.
+[[pdf]](http://papers.nips.cc/paper/5347-how-transferable-are-features-in-deep-neural-networks.pdf)
+
+[5] Jang, Yunhun, et al. "**Learning what and where to transfer.**" 
+arXiv preprint arXiv:1905.05901 (2019).
+[[pdf]](https://arxiv.org/pdf/1905.05901.pdf)
+
 ## Training
 
 [1] Papernot, Nicolas, et al. "**Semi-supervised knowledge transfer for deep learning from private training data.**"
