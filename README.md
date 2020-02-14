@@ -67,6 +67,9 @@ Advances in neural information processing systems. 2014.
 arXiv preprint arXiv:1905.05901 (2019).
 [[pdf]](https://arxiv.org/pdf/1905.05901.pdf)
 
+[6] Misra, Ishan, et al. "**Cross-stitch networks for multi-task learning.**" Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016.
+[[pdf]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Misra_Cross-Stitch_Networks_for_CVPR_2016_paper.pdf)
+
 ## Training
 
 [1] Papernot, Nicolas, et al. "**Semi-supervised knowledge transfer for deep learning from private training data.**"
