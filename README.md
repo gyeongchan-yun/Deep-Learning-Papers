@@ -70,14 +70,13 @@ arXiv preprint arXiv:1905.05901 (2019).
 [6] Misra, Ishan, et al. "**Cross-stitch networks for multi-task learning.**" Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016.
 [[pdf]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Misra_Cross-Stitch_Networks_for_CVPR_2016_paper.pdf)
 
-## Training
-
-[1] Papernot, Nicolas, et al. "**Semi-supervised knowledge transfer for deep learning from private training data.**"
+[7] Papernot, Nicolas, et al. "**Semi-supervised knowledge transfer for deep learning from private training data.**"
 arXiv preprint arXiv:1610.05755 (2016).
 [[pdf]](https://arxiv.org/pdf/1610.05755.pdf,)
 
-## Inference
-
-[1] Kim, Eunwoo, et al. "**Deep virtual networks for memory efficient inference of multiple tasks.**" 
+[8] Kim, Eunwoo, et al. "**Deep virtual networks for memory efficient inference of multiple tasks.**" 
 Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019.
 [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_Deep_Virtual_Networks_for_Memory_Efficient_Inference_of_Multiple_Tasks_CVPR_2019_paper.pdf)
+
+[9] Li, Zhizhong, and Derek Hoiem. "**Learning without forgetting.**" IEEE transactions on pattern analysis and machine intelligence 40.12 (2017): 2935-2947.
+[[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8107520)
