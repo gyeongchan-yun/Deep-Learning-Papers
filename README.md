@@ -80,3 +80,6 @@ Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2
 
 [9] Li, Zhizhong, and Derek Hoiem. "**Learning without forgetting.**" IEEE transactions on pattern analysis and machine intelligence 40.12 (2017): 2935-2947.
 [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8107520)
+
+[10] Ahn, Chanho, Eunwoo Kim, and Songhwai Oh. "**Deep Elastic Networks with Model Selection for Multi-Task Learning.**" Proceedings of the IEEE International Conference on Computer Vision. 2019.
+[[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Ahn_Deep_Elastic_Networks_With_Model_Selection_for_Multi-Task_Learning_ICCV_2019_paper.pdf)
