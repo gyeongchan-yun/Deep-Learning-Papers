@@ -6,10 +6,10 @@ Deep-Learning-Papers
 
 # Deep Reinforcement Learning
 
-[1] Mnih, Volodymyr, et al. "**Playing atari with deep reinforcement learning.**" arXiv preprint
-arXiv:1312.5602 (2013). [[pdf]](https://arxiv.org/pdf/1312.5602.pdf)
+[1] Mnih, Volodymyr, et al. "**Playing atari with deep reinforcement learning.**" 
+arXiv preprint arXiv:1312.5602 (2013). 
+[[pdf]](https://arxiv.org/pdf/1312.5602.pdf)
 [[github]](https://github.com/gyeongchan-yun/DQN-Atari)
-
 
 # Computer Vision
 
@@ -36,23 +36,26 @@ Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Wo
  
 # Language Translation
 
-[1] Sutskever, I., O. Vinyals, and Q. V. Le. "**Sequence to sequence learning with neural networks.**" Advances in NIPS (2014).
+[1] Sutskever, I., O. Vinyals, and Q. V. Le. "**Sequence to sequence learning with neural networks.**" 
+Advances in NIPS (2014).
 [[pdf]](https://arxiv.org/pdf/1409.3215.pdf)
 
 [2] Wu, Yonghui, et al. "**Google's neural machine translation system: Bridging the gap between human and machine translation.**" 
 arXiv preprint arXiv:1609.08144 (2016).
 [[pdf]](https://arxiv.org/pdf/1609.08144.pdf%20(7.pdf))
 
-[3] Vaswani, Ashish, et al. "**Attention is all you need.**" Advances in neural information processing systems (NIPS). 2017.
+[3] Vaswani, Ashish, et al. "**Attention is all you need.**" 
+Advances in neural information processing systems (NIPS). 2017.
 [[pdf]](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf)
 
-# Transfer Learning (Multi-Task Learning)
+# Transfer Learning & Multi-Task Learning
 
 [1] Tan, Chuanqi, et al. "**A survey on deep transfer learning.**"
 International conference on artificial neural networks. Springer, Cham, 2018.
 [[pdf]](https://arxiv.org/pdf/1808.01974.pdf)
 
-[2] Pan, Sinno Jialin, and Qiang Yang. "**A survey on transfer learning.**" IEEE Transactions on knowledge and data engineering 22.10 (2009): 1345-1359.
+[2] Pan, Sinno Jialin, and Qiang Yang. "**A survey on transfer learning.**" 
+IEEE Transactions on knowledge and data engineering 22.10 (2009): 1345-1359.
 [[pdf]](https://ieeexplore.ieee.org/iel5/69/4358933/05288526.pdf)
 
 [3] Ruder, Sebastian. "**An overview of multi-task learning in deep neural networks.**" 
@@ -67,7 +70,8 @@ Advances in neural information processing systems. 2014.
 arXiv preprint arXiv:1905.05901 (2019).
 [[pdf]](https://arxiv.org/pdf/1905.05901.pdf)
 
-[6] Misra, Ishan, et al. "**Cross-stitch networks for multi-task learning.**" Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016.
+[6] Misra, Ishan, et al. "**Cross-stitch networks for multi-task learning.**" 
+Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016.
 [[pdf]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Misra_Cross-Stitch_Networks_for_CVPR_2016_paper.pdf)
 
 [7] Papernot, Nicolas, et al. "**Semi-supervised knowledge transfer for deep learning from private training data.**"
@@ -78,8 +82,27 @@ arXiv preprint arXiv:1610.05755 (2016).
 Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019.
 [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_Deep_Virtual_Networks_for_Memory_Efficient_Inference_of_Multiple_Tasks_CVPR_2019_paper.pdf)
 
-[9] Li, Zhizhong, and Derek Hoiem. "**Learning without forgetting.**" IEEE transactions on pattern analysis and machine intelligence 40.12 (2017): 2935-2947.
+[9] Li, Zhizhong, and Derek Hoiem. "**Learning without forgetting.**" 
+IEEE transactions on pattern analysis and machine intelligence 40.12 (2017): 2935-2947.
 [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8107520)
 
-[10] Ahn, Chanho, Eunwoo Kim, and Songhwai Oh. "**Deep Elastic Networks with Model Selection for Multi-Task Learning.**" Proceedings of the IEEE International Conference on Computer Vision. 2019.
+[10] Ahn, Chanho, Eunwoo Kim, and Songhwai Oh. "**Deep Elastic Networks with Model Selection for Multi-Task Learning.**" 
+Proceedings of the IEEE International Conference on Computer Vision. 2019.
 [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Ahn_Deep_Elastic_Networks_With_Model_Selection_for_Multi-Task_Learning_ICCV_2019_paper.pdf)
+
+[11] Sener, Ozan, and Vladlen Koltun. "**Multi-task learning as multi-objective optimization.**" 
+Advances in Neural Information Processing Systems. 2018.
+[[pdf]](https://papers.nips.cc/paper/7334-multi-task-learning-as-multi-objective-optimization.pdf)
+[[github]](https://github.com/intel-isl/MultiObjectiveOptimization)
+
+[12] Kaiser, Lukasz, et al. "**Large Scale Multi-Domain Multi-Task Learning with MultiModel.**" (2018).
+Under review at ICLR 2018.
+[[pdf]](https://openreview.net/pdf?id=HyKZyYlRZ)
+
+[13] Subramanian, Sandeep, et al. "**Learning general purpose distributed sentence representations via large scale multi-task learning.**" 
+arXiv preprint arXiv:1804.00079 (2018).
+[[pdf]](https://arxiv.org/pdf/1804.00079.pdf)
+
+[14] Zamir, Amir R., et al. "**Taskonomy: Disentangling task transfer learning.**" 
+Proceedings of the IEEE conference on computer vision and pattern recognition(CVPR). 2018.
+[[pdf]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zamir_Taskonomy_Disentangling_Task_CVPR_2018_paper.pdf)
