@@ -106,3 +106,25 @@ arXiv preprint arXiv:1804.00079 (2018).
 [14] Zamir, Amir R., et al. "**Taskonomy: Disentangling task transfer learning.**" 
 Proceedings of the IEEE conference on computer vision and pattern recognition(CVPR). 2018.
 [[pdf]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zamir_Taskonomy_Disentangling_Task_CVPR_2018_paper.pdf)
+
+# AutoML
+
+## Data Augmentation
+
+[1] Lim, Sungbin, et al. "**Fast autoaugment.**" Advances in Neural Information Processing Systems. 2019.
+[[pdf]](http://papers.nips.cc/paper/8892-fast-autoaugment.pdf)
+
+## Neural Architecture Search (NAS)
+
+[1] Kim, Sungwoong, et al. "**Scalable neural architecture search for 3d medical image segmentation.**" 
+International Conference on Medical Image Computing and Computer-Assisted Intervention. Springer, Cham, 2019. 
+[[pdf]](https://arxiv.org/pdf/1906.05956)
+
+[2] Ying, Chris, et al. "**Nas-bench-101: Towards reproducible neural architecture search.**"
+International Conference on Machine Learning (ICML). 2019.
+[[pdf]](http://proceedings.mlr.press/v97/ying19a/ying19a.pdf)
+
+[3] Baker, Bowen, et al. "**Designing neural network architectures using reinforcement learning.**"
+Proceedings of ICLR 2017.
+[[pdf]](https://arxiv.org/pdf/1611.02167.pdf)
+
