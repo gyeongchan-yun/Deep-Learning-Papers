@@ -11,6 +11,10 @@ arXiv preprint arXiv:1312.5602 (2013).
 [[pdf]](https://arxiv.org/pdf/1312.5602.pdf)
 [[github]](https://github.com/gyeongchan-yun/DQN-Atari)
 
+[2] Silver, David, et al. "**Mastering the game of Go with deep neural networks and tree search.**" 
+nature 529.7587 (2016): 484-489.
+[[pdf]](http://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15780-s16/www/AlphaGo.nature16961.pdf)
+
 # Computer Vision
 
 ## Image Classification
