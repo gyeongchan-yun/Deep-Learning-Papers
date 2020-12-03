@@ -7,13 +7,17 @@ Deep-Learning-Papers
 # Deep Reinforcement Learning
 
 [1] Mnih, Volodymyr, et al. "**Playing atari with deep reinforcement learning.**" 
-arXiv preprint arXiv:1312.5602 (2013). 
+Advances in neural information processing systems (NIPS). 2013
 [[pdf]](https://arxiv.org/pdf/1312.5602.pdf)
 [[github]](https://github.com/gyeongchan-yun/DQN-Atari)
 
 [2] Silver, David, et al. "**Mastering the game of Go with deep neural networks and tree search.**" 
 nature 529.7587 (2016): 484-489.
 [[pdf]](http://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15780-s16/www/AlphaGo.nature16961.pdf)
+
+[3] Jay, Nathan, et al. "**A deep reinforcement learning perspective on internet congestion control.**"
+International Conference on Machine Learning (ICML). 2019.
+[[pdf]](http://proceedings.mlr.press/v97/jay19a/jay19a.pdf)
 
 # Computer Vision
 
